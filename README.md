@@ -1,2 +1,2 @@
-# King-kick
+# King-kicks
 Wordpress Theme
